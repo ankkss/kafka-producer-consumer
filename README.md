@@ -13,6 +13,6 @@ BODY: {"search": "test"}
 
 #START APLICATION
 
-Run APP.java as java application
+Run App.java as java application
 
 
