@@ -11,7 +11,7 @@ POST: http://localhost:8080/producer/test_new #test_new is topic name
 
 BODY: {"search": "test"}
 
-#START APLICATION
+#START APPLICATION
 
 Run App.java as java application
 
